@@ -1,0 +1,7 @@
+n=input("enter any name")
+b=n[::-1]
+if(n==b):
+ print("n is palindrome")
+
+else:
+ print(n is not a palindrome")
